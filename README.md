@@ -31,7 +31,7 @@
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/vnqp/estudo-de-caso-logs.git
+   git clone https://github.com/vvnqp/estudo-de-caso-logs.git
    cd estudo-de-caso-logs
    ```
 
@@ -90,7 +90,7 @@ estudo-de-caso-logs/
 ## 🏫 Informações Acadêmicas
 
 - Universidade: **Universidade Braz Cubas**
-- Curso: **Ciência da Computação / Análise e Desenvolvimento de Sistemas**
+- Curso: **Ciência da Computação**
 - Semestre: 6º
 - Período: Manhã
 - Professora orientadora: **Dra. Andréa Ono Sakai**
